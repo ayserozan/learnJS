@@ -1,4 +1,6 @@
 # learnJS
+This is the sample project for Coyotiv School of Software Engineering
+
 # LICENSE 
 
 ```
