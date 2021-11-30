@@ -35,6 +35,5 @@ const photo = new Photo('berlin.jpg')
 
 
 steve.addPhoto(photo)
-armagan.likePhoto(photo)
 mihri.likePhoto(photo)
 
