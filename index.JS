@@ -30,6 +30,7 @@ class Photo{
 const mihri = new Person('mihri', 35)
 const steve = new Person('steve', 21)
 const armagan = new Person('armagan', 36)
+const eli = new Person('eli', 33)
 
 const photo = new Photo('berlin.jpg')
 
